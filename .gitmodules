@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "multxpert"]
+	path = multxpert
+	url = https://github.com/cran/multxpert
+	shallow = true
+	registered = true
